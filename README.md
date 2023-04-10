@@ -1,0 +1,1 @@
+This is a repo that i update my python exercises and projects.
